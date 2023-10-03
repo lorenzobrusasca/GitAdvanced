@@ -10,6 +10,14 @@ package Service;
  */
 public class CalculatorService {
     
+     public void multiplicAndDivide()
+    {
+    
+        System.out.println("Here we multiplique and divide");
+    }
+    
+    
+    
     public void sumarizeAndRest()
     {
         System.out.println("Here we sum and rest");

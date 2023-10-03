@@ -15,5 +15,7 @@ public class Calculator {
     CalculatorService C = new CalculatorService();
         
         C.sumarizeAndRest();
+        
+        C.multiplicAndDivide();
     }
 }
