@@ -10,6 +10,13 @@ package Service;
  */
 public class CalculatorService {
     
+    public void sumAndSubs()
+            
+    {
+        System.out.println("Sum and subs");
+        
+    }
+    
     
     
 }
