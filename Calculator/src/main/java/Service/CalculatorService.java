@@ -10,4 +10,11 @@ package Service;
  */
 public class CalculatorService {
     
+    public void sumarizeAndRest()
+    {
+        System.out.println("Here we sum and rest");
+    
+    }
+           
+    
 }
