@@ -10,6 +10,9 @@ package Service;
  */
 public class CalculatorService {
     
-    
+    public void multiplAndDivide()
+    {
+            System.out.println("Here we multip and divide");
+    }
     
 }
