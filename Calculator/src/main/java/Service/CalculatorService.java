@@ -10,4 +10,10 @@ package Service;
  */
 public class CalculatorService {
     
+    public void multiplicAndDivide()
+    {
+    
+        System.out.println("Here we multiplique and divide");
+    }
+    
 }

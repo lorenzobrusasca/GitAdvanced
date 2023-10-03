@@ -4,6 +4,8 @@
 
 package main.calculator;
 
+import Service.CalculatorService;
+
 /**
  *
  * @author Lorenzo
@@ -11,6 +13,12 @@ package main.calculator;
 public class Calculator {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
+        CalculatorService C = new CalculatorService();
+        
+        C.multiplicAndDivide();
+        
+        
+        
     }
 }
